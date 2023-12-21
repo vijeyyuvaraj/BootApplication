@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String welcomeMethod(){
-        return " Welcome to Boot Application!!! restarted ";
+        return " Welcome to Boot Application!!! ";
     }
 
 }
